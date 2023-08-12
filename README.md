@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-Здравствуйте, Я Мингалеев Динар. Спасибо , что посетили мою страницу.
+Спасибо, за то что посетили мою страницу.
 💻📱 Мой стек:
 - Kotlin
 - OOP / SOLID Principle / Design Patterns / Material Design
